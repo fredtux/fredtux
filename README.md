@@ -7,7 +7,7 @@
 
 🔭 I'm currently learning more about the DNS protocol
 
-📫 Check out my [CV](https://fredtux.github.io/online-cv/) or connect with me on <a href="https://www.linkedin.com/in/dinuflorin/" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Florin Dinu" height="10" width="10" /></a>
+📫 Check out my <a href="https://fredtux.github.io/online-cv/" target="_blank">CV</a> or connect with me on <a href="https://www.linkedin.com/in/dinuflorin/" target="_blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Florin Dinu" height="10" width="10" /></a>
 
 # Tech stack
 <p align="left">
