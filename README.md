@@ -1,11 +1,11 @@
 # Hi! I'm Florin 👋
 🌱 My pronouns are: he/him
 
-:sunglasses: I'm a fullstack developer and a computer science student in Romania
+:sunglasses: I'm a fullstack developer and just finished my bachelor's in computer science
 
 :smiley_cat: I'm passionate about open source software
 
-🔭 I'm currently learning more about the DNS protocol
+🔭 Check out my <a href="https://github.com/fredtux/Licenta_FMI_2024_DNSAnomaly" target="_blank">Bachelor's Thesis</a> about anomaly detection in DNS traffic (Romanian language)
 
 📫 Check out my <a href="https://fredtux.github.io/online-cv/" target="_blank">CV</a> or connect with me on <a href="https://www.linkedin.com/in/dinuflorin/" target="_blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Florin Dinu" height="10" width="10" /></a>
 
