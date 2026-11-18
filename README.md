@@ -1,7 +1,7 @@
 # Hi! I'm Florin 👋
 🌱 My pronouns are: he/him
 
-:sunglasses: I'm a fullstack developer and just finished my bachelor's in computer science
+:sunglasses: I'm a data scientist and former fullstack developer pursuing a master's degree in NLP
 
 :smiley_cat: I'm passionate about open source software
 
